@@ -1,0 +1,1 @@
+{"name":"Chronium","version":"1.0.0","main":"main.js","scripts":{"start":"node main.js"},"keywords":["forgescript","forgescript 1.5.0"],"author":"aurea6","license":"MIT","dependencies":{"@tryforge/forgecanvas":"github:tryforge/forgecanvas#main","@tryforge/forge.db":"github:tryforge/forgedb#main","@tryforge/forgescript":"^1.5.0","discord-gamecord":"^4.4.2","sqlite3":"^5.1.7"}}
