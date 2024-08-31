@@ -1,0 +1,1 @@
+module.exports={name:"ping",aliases:["pong"],type:"messageCreate",code:`My response time is $pingms and I can execute codes at $round[$executionTime;2]ms.`}
